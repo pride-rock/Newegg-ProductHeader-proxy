@@ -1,0 +1,26 @@
+{
+  "name": "newegg-productheader-proxy",
+  "version": "1.0.0",
+  "description": "proxy server for productheader",
+  "main": "index.js",
+  "scripts": {
+    "": "echo \"Error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pride-rock/Newegg-ProductHeader-proxy.git"
+  },
+  "author": "Marc Benedict L. Choa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pride-rock/Newegg-ProductHeader-proxy/issues"
+  },
+  "homepage": "https://github.com/pride-rock/Newegg-ProductHeader-proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7"
+  }
+}
