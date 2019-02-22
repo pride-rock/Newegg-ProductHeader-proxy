@@ -4,7 +4,7 @@
   "description": "proxy server for productheader",
   "main": "index.js",
   "scripts": {
-    "": "echo \"Error"
+    "proxy-dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
